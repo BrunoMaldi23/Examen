@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002418426311",
+    "project_id": "inventar-105a5",
+    "storage_bucket": "inventar-105a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002418426311:android:f996a3a426013d5f71c9e2",
+        "android_client_info": {
+          "package_name": "com.example.appbruno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb7_xmJcCnN_nSo5x33p8Bgd8hntXxhY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
